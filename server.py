@@ -7,7 +7,7 @@ import csv
 from itertools import count
 from matplotlib.animation import FuncAnimation
 
-HOST = "192.168.22.210"  # IP address
+HOST = "Your IPv4 address"  # IP address
 PORT = 8000  # Port to listen on (use ports > 1023)
 
 # Path to your CSV file
